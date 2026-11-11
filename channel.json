@@ -24,7 +24,10 @@
       "title": "sleeptvn02",
       "description": "Video para dormir y relajarse.",
       "duration": "2:57",
-      "featured": false
+      "featured": false,
+      "tags": [
+        "small"
+      ]
     }
   ]
 }
