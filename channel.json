@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "channel": {
+    "id": "UCq655bqK8l1A102QTvv9Tsg",
+    "name": "jonathan s",
+    "logoUrl": "https://jsmceodevalisai-bot.github.io/sleeptv/images/logo.jpg"
+  },
+  "videos": [
+    {
+      "id": "0WRgOWwBSGc",
+      "title": "sleeptvn01",
+      "description": "Video para dormir y relajarse.",
+      "duration": "2:33",
+      "featured": true
+    },
+    {
+      "id": "z-xwB6hd3xU",
+      "title": "sleeptvn02",
+      "description": "Video para dormir y relajarse.",
+      "duration": "2:57",
+      "featured": false
+    }
+  ]
+}
