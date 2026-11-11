@@ -7,28 +7,11 @@
   },
   "videos": [
     {
-      "id": "0WRgOWwBSGc",
-      "title": "sleeptvn01",
-      "description": "Video para dormir y relajarse.",
-      "duration": "2:33",
-      "featured": true
-    },
-    {
-      "id": "z-xwB6hd3xU",
-      "title": "sleeptvn02",
-      "description": "Video para dormir y relajarse.",
-      "duration": "2:57",
-      "featured": false,
-      "tags": [
-        "small"
-      ]
-    },
-    {
       "id": "3a7fWOrOMTI",
       "title": "sleepvn3",
       "description": "Video para dormir y relajarse.",
       "duration": "8:51",
-      "featured": false
+      "featured": true
     }
   ]
 }
